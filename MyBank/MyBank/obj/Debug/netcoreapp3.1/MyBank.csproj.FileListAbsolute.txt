@@ -1,0 +1,39 @@
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\MyBank.exe
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\MyBank.deps.json
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.json
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.dev.json
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.csprojAssemblyReference.cache
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfoInputs.cache
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfo.cs
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.csproj.CoreCompileInputs.cache
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\MyBank.genruntimeconfig.cache
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.csprojAssemblyReference.cache
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfoInputs.cache
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfo.cs
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.exe
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.deps.json
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.json
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.dev.json
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.genruntimeconfig.cache
+C:\Users\A8-PC100\Downloads\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.csproj.CoreCompileInputs.cache
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.csprojAssemblyReference.cache
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfoInputs.cache
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.AssemblyInfo.cs
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.csproj.CoreCompileInputs.cache
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.exe
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.deps.json
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.json
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.dev.json
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.dll
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.pdb
+C:\Users\A8-PC100\Desktop\Nueva carpeta\MyBank_v2\MyBank\MyBank\obj\Debug\netcoreapp3.1\MyBank.genruntimeconfig.cache

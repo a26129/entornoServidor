@@ -1,0 +1,13 @@
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\Myproject.exe
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\Myproject.deps.json
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\Myproject.runtimeconfig.json
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\Myproject.runtimeconfig.dev.json
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\Myproject.dll
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\bin\Debug\netcoreapp3.1\Myproject.pdb
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.csprojAssemblyReference.cache
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.AssemblyInfoInputs.cache
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.AssemblyInfo.cs
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.csproj.CoreCompileInputs.cache
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.dll
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.pdb
+C:\Users\A8-PC100\source\repos\Myproject\Myproject\obj\Debug\netcoreapp3.1\Myproject.genruntimeconfig.cache
